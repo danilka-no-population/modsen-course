@@ -25,4 +25,4 @@ console.log(sortedArr); // [11, 12, 22, 25, 34, 64, 90]
 
 let arr1 = [];
 let sortedArr1 = bubbleSort(arr1);
-console.log(sortedArr1); // [11, 12, 22, 25, 34, 64, 90]
+console.log(sortedArr1); // Массив пустой!
